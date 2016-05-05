@@ -17,7 +17,7 @@ sdk_version_unity="3.0.9"
 sdk_version_air="3.1.6"
 sdk_version_kws="1.1.0"
 sdk_version_web="2.0.0"
-sdk_version_flash="3.1.7"
+sdk_version_flash="3.1.8"
 sdk_source="https://github.com/SuperAwesomeLTD/sa-flash-sdk"
 sdk_author="Gabriel Coman"
 
