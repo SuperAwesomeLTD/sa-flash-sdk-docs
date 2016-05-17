@@ -76,6 +76,11 @@ Video ads
                 var frame = new Rectangle(250, 450, 640, 100);
                 video = new SAVideoAd(frame);
                 video.setAd(videoAdData);
+
+                // toggles a small video "click" button
+                // instead of the whole video surface
+                video.shouldShowSmallClickButton = true;
+
                 addChildAt(video, 0);
                 vidoe.play();
             }
