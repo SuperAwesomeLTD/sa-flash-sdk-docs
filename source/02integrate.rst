@@ -1,7 +1,7 @@
 Integrate the SDK
 =================
 
-The new Flash SDK is compiled into `SuperAwesome_Flash_<sdk_version_flash>.swc <https://github.com/SuperAwesomeLTD/sa-flash-sdk-docs/blob/master/source/res/SuperAwesome_Flash_<sdk_version_flash>.swc?raw=true>`_ .
+The new Flash SDK is compiled into `SuperAwesome_Flash_<sdk_version_flash>.swc <https://github.com/SuperAwesomeLTD/sa-sdk-build-repo/blob/master/flash_build/SuperAwesome_Flash-<sdk_version_flash>.swc?raw=true>`_ .
 You'll need to download this file and save it somewhere to disk, so you can add it to your project.
 
 **Note:** This document assumes:
