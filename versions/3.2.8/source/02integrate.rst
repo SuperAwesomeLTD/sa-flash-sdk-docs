@@ -1,7 +1,7 @@
 Integrate the SDK
 =================
 
-The new Flash SDK is compiled into `SuperAwesomeSDK-<sdk_version_flash>.AdobeFlash.swc <https://github.com/SuperAwesomeLTD/sa-sdk-build-repo/blob/master/package/SuperAwesomeSDK-<sdk_version_flash>.AdobeFlash.swc?raw=true>`_ .
+The new Flash SDK is compiled into `SuperAwesomeSDK-<sdk_version>.AdobeFlash.swc <https://github.com/SuperAwesomeLTD/sa-sdk-build-repo/blob/master/package/<sdk_version>/SuperAwesomeSDK-<sdk_version>.AdobeFlash.swc?raw=true>`_ .
 You'll need to download this file and save it somewhere to disk, so you can add it to your project.
 
 **Note:** This document assumes:
@@ -13,7 +13,7 @@ You'll need to download this file and save it somewhere to disk, so you can add 
 Add the SDK
 ^^^^^^^^^^^
 
-To add the SDK to the project, simply copy the file you just downloaded, `SuperAwesomeSDK-<sdk_version_flash>.AdobeFlash.swc`, into
+To add the SDK to the project, simply copy the file you just downloaded, `SuperAwesomeSDK-<sdk_version>.AdobeFlash.swc`, into
 the project root and setup library paths:
 
 Go to the **File -> Publish Settings** menu. A pop-up will appear with different settings. Press on the **Action Script 3 Settings** button.

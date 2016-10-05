@@ -9,8 +9,9 @@ The SuperAwesome Flash SDK (Software Development Kit) lets you to easily add COP
 =============== ========
 Info            Contents
 =============== ========
-Version         <sdk_version_flash>
-Support         `<sdk_devsuspport> <mailto:<sdk_devsuspport>>`_
+Version         <sdk_version>
+GitHub          <sdk_source>
+Contact         `<sdk_devsuspport> <mailto:<sdk_devsuspport>>`_
 License         `LICENSE <https://raw.githubusercontent.com/SuperAwesomeLTD/sa-flash-sdk/master/LICENSE>`_
 =============== ========
 
