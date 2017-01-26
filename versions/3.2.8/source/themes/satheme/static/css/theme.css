@@ -4454,11 +4454,13 @@ div[class^='highlight'] pre {
     color: #333
 }
 .wy-menu-vertical li.toctree-l1.current li.toctree-l2>ul,
-.wy-menu-vertical li.toctree-l2.current li.toctree-l3>ul {
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3>ul,
+.wy-menu-vertical li.toctree-l3.current li.toctree-l4>ul {
     display: none
 }
 .wy-menu-vertical li.toctree-l1.current li.toctree-l2.current>ul,
-.wy-menu-vertical li.toctree-l2.current li.toctree-l3.current>ul {
+.wy-menu-vertical li.toctree-l2.current li.toctree-l3.current>ul,
+.wy-menu-vertical li.toctree-l3.current li.toctree-l4.current>ul {
     display: block
 }
 .wy-menu-vertical li.toctree-l2.current>a {
@@ -4499,6 +4501,18 @@ div[class^='highlight'] pre {
 .wy-menu-vertical li.toctree-l4 {
     font-size: 0.9em
 }
+
+.wy-menu-vertical li.toctree-l4.current li.toctree-l5>a {
+    display: block;
+    background: #b3b3b3;
+    padding: 0.4045em 7.5em;
+    border-top: none;
+    border-bottom: none
+}
+.wy-menu-vertical li.toctree-l5 {
+    font-size: 0.9em
+}
+
 .wy-menu-vertical li.current ul {
     display: block
 }

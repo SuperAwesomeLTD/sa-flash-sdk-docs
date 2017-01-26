@@ -1,21 +1,19 @@
-.. This page should present an overview of the whole documentation, with a TOC
-   as well as a main table that lists the most important stuff about the project
+AwesomeAds Flash SDK
+====================
 
-SuperAwesome Flash SDK
-=======================
-
-The SuperAwesome Flash SDK (Software Development Kit) lets you to easily add COPPA compliant advertisements to your flash apps.
+The AwesomeAds Flash SDK (Software Development Kit) lets you to easily add COPPA compliant advertisements to your flash apps.
 
 =============== ========
 Info            Contents
 =============== ========
-Version         <sdk_version>
+Version         <sdk_version> (`Changelog <https://github.com/SuperAwesomeLTD/sa-flash-sdk/blob/master/CHANGELOG.md>`_)
 GitHub          <sdk_source>
 Contact         `<sdk_devsuspport> <mailto:<sdk_devsuspport>>`_
-License         `LICENSE <https://raw.githubusercontent.com/SuperAwesomeLTD/sa-flash-sdk/master/LICENSE>`_
+License         `GNU General Public License Version 3 <https://github.com/SuperAwesomeLTD/sa-flash-sdk/blob/master/LICENSE>`_
 =============== ========
 
-Table of Contents:
+Table of Contents
+-----------------
 
 .. toctree::
    :maxdepth: 2
